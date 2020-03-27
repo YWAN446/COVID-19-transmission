@@ -1,0 +1,113 @@
+id,date,province,city,district,home city,age,gender,traveled to Wuhan,traveled to other provinces,close Contact with Previous Cases,contact with,date arrived Wuhan,date left Wuhan,date with symptoms,symptoms,date admitted to hospital,death,note,released date,contact,parent
+1,1/21/20,Tianjin,Tianjin,XiQing,Tianjin,59,F,1,0,0,,,1/14/20,1/14/20,,1/14/20,,,,60,0
+2,1/21/20,Tianjin,Tianjin,HeDong,Tianjin,57,M,1,0,1,,,1/19/20,1/18/20,,1/19/20,,Train staff,,"5, 6, 22, 28, 47, 62",0
+3,1/22/20,Tianjin,Tianjin,NanKai,Wuhan,68,F,1,0,0,,,,1/14/20,,,,,,9,0
+4,1/22/20,Tianjin,Tianjin,HePing,Tianjin,40,M,1,0,0,,,,1/14/20,,,,,,,0
+5,1/23/20,Tianjin,Tianjin,HeBei,Tianjin,46,M,0,0,1,Tianjin-2,,,1/15/20,,,,Train staff,,"2, 5, 6, 12, 13, 16, 17, 22, 28, 47, 62",2
+6,1/23/20,Tianjin,Tianjin,HeBei,Tianjin,56,M,0,0,1,Tianjin-2,,,1/19/20,Fever,1/23/20,,Train staff,,"2, 5, 11, 20, 22, 28, 47, 62",2
+7,1/24/20,Tianjin,Tianjin,BinHai,Wuhan,29,F,1,0,0,,,1/23/20,1/24/20,Fever,1/24/20,,,,,0
+8,1/24/20,Tianjin,Tianjin,HeDong,Tianjin,39,M,1,0,0,,1/19/20,1/23/20,1/23/20,Fever,,,Train staff,,,0
+9,1/25/20,Tianjin,Tianjin,HeDong,Tianjin,57,M,1,0,0,,,1/17/20,1/24/20,Fever,1/24/20,,,,"3, 21, 55",3
+10,1/25/20,Tianjin,Tianjin,,Beijing,30,M,1,0,0,,1/18/20,1/20/20,1/24/20,Fever,1/24/20,,,,,0
+11,1/26/20,Tianjin,Tianjin,HeBei,Tianjin,55,F,0,0,0,,,,1/23/20,Fever,,,,,6,6
+12,1/26/20,Tianjin,Tianjin,HeBei,Tianjin,79,F,0,0,0,,,,1/24/20,Fever,,,,,"5, 13, 16",5
+13,1/26/20,Tianjin,Tianjin,HeBei,Tianjin,19,M,0,0,0,,,,1/20/20,Fever,,,,,"5, 12, 16",5
+14,1/26/20,Tianjin,Tianjin,,Wuhan,71,M,1,0,0,,,1/19/20,1/25/20,Fever,1/25/20,,,,"25, 54, 59",0
+15,1/27/20,Tianjin,Tianjin,HongQiao,Tianjin,50,M,1,0,0,,,1/23/20,1/25/20,Fever,1/26/20,,,,,0
+16,1/27/20,Tianjin,Tianjin,HeBei,Tianjin,78,M,0,0,1,Tianjin-5,,,1/21/20,Fever,1/23/20,,Relative,,"5, 12, 13",5
+17,1/27/20,Tianjin,Tianjin,HeBei,Tianjin,49,M,0,0,1,Tianjin-5,,,1/26/20,Fever,1/26/20,,Train staff,,"5, 33",5
+18,1/27/20,Tianjin,Tianjin,HeXi,Tianjin,43,M,1,0,0,,1/16/20,1/16/20,1/23/20,Fever,1/24/20,,,,,0
+19,1/27/20,Tianjin,Tianjin,HeXi,Tianjin,47,M,0,0,0,,,,1/25/20,,,,Took the train and Wuhan passenger on board,,,0
+20,1/27/20,Tianjin,Tianjin,HeDong,Tianjin,47,M,0,0,1,Tianjin-6,,,1/26/20,Fever,,,,,"6, 35, 44",6
+21,1/27/20,Tianjin,Tianjin,HeXi,Tianjin,90,M,0,0,1,Tianjin-9,,,1/26/20,Fever,,,Train staff,,"9, 55",9
+22,1/27/20,Tianjin,Tianjin,HeDong,Tianjin,38,M,0,0,1,Tianjin-2,,,,Fever,,,Train staff,,"2, 5, 6, 28, 47, 62",2
+23,1/27/20,Tianjin,Tianjin,HeDong,Tianjin,29,M,1,0,0,,,1/21/20,1/24/20,Fever,1/25/20,,,,,0
+24,1/28/20,Tianjin,Tianjin,XiQing,Tianjin,21,M,1,0,0,,,1/11/20,1/23/20,Fever,,,,,,0
+25,1/29/20,Tianjin,Tianjin,,Wuhan,41,M,1,0,1,Tianjin-14,,1/27/20,1/27/20,Fever & Cough,1/27/20,,,,"14, 54, 59",14
+26,1/29/20,Tianjin,Tianjin,,Wuhan,46,F,1,0,0,,,1/22/20,1/27/20,Fever,1/27/20,,,,,0
+27,1/29/20,Tianjin,Tianjin,HePing,Tianjin,35,M,0,0,0,Asyp-colleague,,,1/28/20,Fever,1/28/20,,,,63,0
+28,1/30/20,Tianjin,Tianjin,HeBei,Tianjin,55,M,0,0,1,Tianjin-2,,,1/19/20,Fever,1/25/20,,Train staff,,"2, 5, 6, 22, 47, 62",2
+29,1/30/20,Tianjin,Tianjin,HePing,Tianjin,36,M,1,0,0,,1/18/20,1/22/20,1/29/20,Fever,1/29/20,,,,,0
+30,1/30/20,Tianjin,Tianjin,HongQiao,Tianjin,64,F,1,0,0,,1/19/20,1/23/20,1/28/20,Respiratory,1/29/20,,,,,0
+31,1/30/20,Tianjin,Tianjin,BinHai,Tianjin,29,F,1,0,0,,1/21/20,1/24/20,1/29/20,Fever,1/29/20,,,,,0
+32,1/31/20,Tianjin,Tianjin,NingHe,Tianjin,28,M,0,1,0,,,,1/23/20,Fever,1/30/20,,,,"38, 46, 56",0
+33,2/1/20,Tianjin,Tianjin,HeBei,Tianjin,48,F,0,0,1,Tianjin-17,,,1/30/20,Fever,1/31/20,,Relative,,17,17
+34,2/1/20,Tianjin,Tianjin,BaoDi,Tianjin,52,F,0,0,1,Mall,,,1/27/20,Fever,1/27/20,,Sales at Mall,,"36, 37, 43, 48, 50, 51, 53, 57, 58, 66, 68, 71, 73, 74, 75, 78, 80, 83, 85, 87, 89, 92, 99, 111",43
+35,2/1/20,Tianjin,Tianjin,HeDong,Tianjin,74,F,0,0,1,Tianjin-20,,,1/30/20,Fever,1/31/20,,Relative,,"20, 44",20
+36,2/1/20,Tianjin,Tianjin,BaoDi,Tianjin,53,M,0,0,1,Tianjin-34,,,1/28/20,Fever,1/30/20,,Relative,,34,34
+37,2/1/20,Tianjin,Tianjin,BaoDi,Tianjin,43,F,0,0,1,"Tianjin-34, Mall",,,1/25/20,Fever,1/31/20,,Sales at Mall,,"34, 43, 48, 50, 51, 53, 57, 58, 66, 68, 71, 73, 74, 75, 78, 80, 83, 85, 87, 89, 92, 99, 111",43
+38,2/1/20,Tianjin,Tianjin,NingHe,Tianjin,32,M,0,0,1,Tianjin-32,,,2/1/20,PCR positive,1/31/20,,,,"32, 56",32
+39,2/1/20,Tianjin,Tianjin,DongLi,Tianjin,52,M,0,1,1,Wenzhou-confirmed case,,,1/27/20,Fever,1/31/20,,"39,40,41 are family, traveled to Wenzhou, Zhejiang",,"40, 41",0
+40,2/1/20,Tianjin,Tianjin,DongLi,Tianjin,46,F,0,1,1,Wenzhou-confirmed case,,,1/31/20,Cough,1/31/20,,,,"39, 41",39
+41,2/1/20,Tianjin,Tianjin,DongLi,Tianjin,21,F,0,1,1,Wenzhou-confirmed case,,,1/31/20,Fever,1/31/20,,,,"39, 40",39
+42,2/2/20,Tianjin,Tianjin,HePing,Tianjin,64,F,0,0,0,,,,1/27/20,Fever & Cough,2/1/20,,,,,0
+43,2/2/20,Tianjin,Tianjin,BaoDi,Tianjin,35,F,0,0,1,"Tianjin-34, Tianjin-37, Mall",,,1/21/20,Fever,1/27/20,,Sales at Mall,,"34, 37, 53, 48, 50, 51, 57, 58, 66, 68, 71, 73, 74, 75, 78, 80, 83, 84, 85, 87, 89, 92, 99, 111",0
+44,2/2/20,Tianjin,Tianjin,HeDong,Tianjin,75,M,0,0,1,"Tianjin-20, Tianjin-35, Mall",,,1/30/20,Fever,2/1/20,,Relative,,"20, 35",20
+45,2/2/20,Tianjin,Tianjin,HeDong,Tianjin,61,F,1,0,0,,11/30/19,1/24/20,1/25/20,Fever,1/25/20,,,,61,0
+46,2/2/20,Tianjin,Tianjin,NingHe,Tianjin,71,F,0,0,1,Tianjin-32,,,2/2/20,PCR positive,1/31/20,,Relative,,32,32
+47,2/2/20,Tianjin,Tianjin,HeDong,Tianjin,59,M,0,0,1,"Tianjin-2, Tianjin-6",,,1/23/20,Fever,1/24/20,,Train staff,,"2, 5, 6, 22, 28, 62",2
+48,2/2/20,Tianjin,Tianjin,BaoDi,Tianjin,26,F,0,0,1,"Tianjin-37, Tianjin-43, Mall",,,1/29/20,"Fever, Cough & Dizziness",2/1/20,,Sales at Mall,,"34, 37, 43, 53, 83, 89",43
+49,2/3/20,Tianjin,Tianjin,HePing,Tianjin,42,F,1,0,0,,1/16/20,1/22/20,1/31/20,Fever,2/2/20,,,,,0
+50,2/3/20,Tianjin,Tianjin,BaoDi,Tianjin,66,F,0,0,1,"Tianjin-52, Mall",,,2/2/20,Fever,2/2/20,,Visit the Mall,,"34, 37, 43, 52, 53, 83, 89",43
+51,2/3/20,Tianjin,Tianjin,BaoDi,Tianjin,36,F,0,0,1,Mall,,,1/30/20,"Fever, Cough & Running Nose",2/1/20,,Visit the Mall,,"34, 37, 43, 53, 64, 83, 89, 99, 112",43
+52,2/3/20,Tianjin,Tianjin,BaoDi,Tianjin,37,F,0,0,1,Tianjin-50,,,1/31/20,Fever,1/31/20,,Relative,,50,50
+53,2/3/20,Tianjin,Tianjin,BaoDi,Tianjin,46,F,0,0,1,Mall,,,1/31/20,Fever & Cough,2/1/20,,Sales at Mall,,"34, 37, 43, 48, 50, 51, 57, 58, 66, 68, 69, 71, 73, 74, 75, 78, 80, 83, 85, 87, 89, 92, 99, 111",43
+54,2/3/20,Tianjin,Tianjin,,Wuhan,43,M,1,0,1,"Tianjin-14, Tianjin-25",,1/25/20,1/28/20,Fever,1/27/20,,,,"14, 25, 59",14
+55,2/3/20,Tianjin,Tianjin,NanKai,Tianjin,56,F,0,0,1,"Tianjin-9, Tianjin-21",,,2/1/20,Weakness,2/2/20,,Relative,,"9, 21",9
+56,2/3/20,Tianjin,Tianjin,NingHe,Tianjin,32,F,0,0,1,"Tianjin-32, Tianjin-38",,,2/1/20,Fever,2/1/20,,Relative,,"32, 38",38
+57,2/3/20,Tianjin,Tianjin,BaoDi,Tianjin,29,M,0,0,1,Mall,,,2/1/20,Fever,2/2/20,,Visit the Mall,,"34, 37, 43, 53, 83, 89",43
+58,2/3/20,Tianjin,Tianjin,BaoDi,Tianjin,69,F,0,0,1,Mall,,,1/26/20,Fever,2/2/20,,Visit the Mall,,"34, 37, 43, 53, 83, 89",43
+59,2/3/20,Tianjin,Tianjin,,Wuahn,9,M,1,0,1,"Tianjin-14, Tianjin-25",,,2/2/20,Fever & Cough,2/2/20,,Relative,,"14, 25, 54",14
+60,2/3/20,Tianjin,Tianjin,YangLiuQing,Tianjin,61,M,1,0,1,Tianjin-1,1/5/20,,1/25/20,Fever,1/21/20,,Relative,,1,1
+61,2/4/20,Tianjin,Tianjin,HeDong,Tianjin,61,M,1,0,1,Tianjin-45,1/22/20,1/22/20,1/31/20,Fever & Cough,1/31/20,,Relative,,45,45
+62,2/4/20,Tianjin,Tianjin,HeBei,Tianjin,55,M,0,0,1,Tianjin-2,,,1/30/20,Fever,2/1/20,,Train staff,,"2, 5, 6, 22, 28, 47",2
+63,2/4/20,Tianjin,Tianjin,HePing,Tianjin,66,M,0,0,1,Tianjin-27,,,2/1/20,Fever & Hard to breath,2/1/20,,Relative,,27,27
+64,2/4/20,Tianjin,Tianjin,BaoDi,Tianjin,31,M,0,0,1,Tianjin-51,,,2/1/20,Fever,2/2/20,,,,"51, 99",51
+65,2/4/20,Tianjin,Tianjin,HeXi,Tianjin,40,F,0,1,0,,,,1/28/20,Fever,1/31/20,,Traveled to Dalian,,,0
+66,2/4/20,Tianjin,Tianjin,BaoDi,Tianjin,39,F,0,0,1,Mall,,,1/31/20,Dizziness & Weakness,2/2/20,,Visit the Mall,,"34, 37, 43, 53, 83, 89",43
+67,2/4/20,Tianjin,Tianjin,JinNan,Tianjin,33,F,1,0,0,,1/20/20,,1/26/20,Fever,2/3/20,,,,,0
+68,2/5/20,Tianjin,Tianjin,BaoDi,Tianjin,64,F,0,0,1,Mall,,,1/29/20,Fever & Diarrhea,2/3/20,,Visit the Mall,,"34, 37, 43, 53, 83, 89",43
+69,2/5/20,Tianjin,Tianjin,BaoDi,Tianjin,74,F,0,0,1,"Tianjin-53, Mall",,,2/3/20,Fever,2/4/20,,"Visit the Mall, Relative",,53,53
+70,2/6/20,Tianjin,Tianjin,BeiChen,Tianjin,34,M,0,1,0,,,,1/22/20,"Fever, Cough & Weakness",1/28/20,,,,88,0
+71,2/6/20,Tianjin,Tianjin,BaoDi,Tianjin,55,M,0,0,1,Mall,,,1/30/20,Fever,2/4/20,,Visit the Mall,,"34, 37, 43, 53, 83, 89",43
+72,2/6/20,Tianjin,Tianjin,BaoDi,Tianjin,65,F,0,0,0,,,,2/1/20,Fever & Cough,2/5/20,,Visit the Mall,,"81, 85, 86",85
+73,2/6/20,Tianjin,Tianjin,BaoDi,Tianjin,60,F,0,0,1,Mall,,,1/23/20,Cold & Headache,2/4/20,,Visit the Mall,,"34, 37, 43, 53, 83, 89",43
+74,2/6/20,Tianjin,Tianjin,BaoDi,Tianjin,53,M,0,0,1,Mall,,,1/26/20,Weakness,2/4/20,,Visit the Mall,,"34, 37, 43, 53, 83, 89, 94",43
+75,2/6/20,Tianjin,Tianjin,BaoDi,Tianjin,45,M,0,0,1,Wife,,,2/2/20,Fever,2/5/20,,Visit the Mall,,"34, 37, 43, 53, 83, 87, 89",43
+76,2/6/20,Tianjin,Tianjin,XiQing,Tianjin,30,M,0,1,1,Henan-Relative,,,2/3/20,Diarrhea,2/5/20,,,,,0
+77,2/6/20,Tianjin,Tianjin,DongLi,Tianjin,64,M,0,0,0,,,,1/31/20,Fever,1/31/20,,,,,0
+78,2/6/20,Tianjin,Tianjin,BaoDi,Tianjin,56,F,0,0,1,Mall,,,1/27/20,Not well,,,Visit the Mall,,"34, 37, 43, 53, 83, 89",43
+79,2/6/20,Tianjin,Tianjin,BinHai,Tianjin,35,M,0,1,1,Sichuan-Relative,,,2/4/20,Fever,2/5/20,,,,,0
+80,2/7/20,Tianjin,Tianjin,BaoDi,Tianjin,51,F,0,0,1,Mall,,,2/4/20,Fever,2/5/20,,Visit the Mall,,"34, 37, 43, 53, 83, 89",43
+81,2/7/20,Tianjin,Tianjin,BaoDi,Tianjin,65,M,0,0,1,Tianjin-72,,,2/4/20,Fever,2/5/20,,,,"72, 85, 86",85
+82,2/8/20,Tianjin,Tianjin,BaoDi,Tianjin,47,M,0,0,0,,,,2/3/20,Fever,2/6/20,,,,"91, 98",0
+83,2/8/20,Tianjin,Tianjin,BaoDi,Tianjin,42,F,0,0,1,"Tianjin-43, Tianjin-53",,,2/3/20,Fever,2/3/20,,Sales at Mall,,"34, 37, 43, 48, 50, 51, 53, 57, 58, 66, 68, 71, 73, 74, 75, 78, 80, 85, 87, 89, 92, 99, 111",43
+84,2/8/20,Tianjin,Tianjin,BaoDi,Tianjin,36,M,0,0,1,Tianjin-43,,,2/4/20,Fever & Headache,2/4/20,,Relative,,43,43
+85,2/8/20,Tianjin,Tianjin,BaoDi,Tianjin,56,F,0,0,1,Tianjin-72,,,1/27/20,Fever & Weakness,2/4/20,,Relative,,"34, 37, 43, 53, 72, 81, 83, 86, 89",43
+86,2/8/20,Tianjin,Tianjin,BaoDi,Tianjin,65,M,0,0,1,"Tianjin-72, Tianjin-85",,,1/31/20,Fever & Cough,2/5/20,,Realtive,,"72, 81, 85",85
+87,2/8/20,Tianjin,Tianjin,BaoDi,Tianjin,43,F,0,0,1,Mall,,,2/2/20,Running Nose & Sneezing,2/5/20,,Visit the Mall,,"34, 37, 43, 53, 75, 83, 89, 94",75
+88,2/8/20,Tianjin,Tianjin,WuQing,Tianjin,42,M,0,0,1,Tianjin-70,,,1/28/20,Fever & Cough,1/29/20,,Relative,,70,70
+89,2/9/20,Tianjin,Tianjin,BaoDi,Tianjin,34,F,0,0,1,Mall,,,2/7/20,Fever,2/7/20,,Sales at Mall,,"34, 37, 43, 48, 50, 51, 53, 57, 58, 66, 68, 71, 73, 74, 75, 78, 80, 83, 85, 87, 92, 99, 111",43
+90,2/9/20,Tianjin,Tianjin,BaoDi,Tianjin,29,M,0,0,0,,,,2/1/20,Fever,2/8/20,,,,,0
+91,2/9/20,Tianjin,Tianjin,BaoDi,Tianjin,21,M,0,0,1,Tianjin-82,,,2/8/20,Fever,2/8/20,,,,"82, 98",82
+92,2/10/20,Tianjin,Tianjin,BaoDi,Tianjin,63,F,0,0,1,Mall,,,1/30/20,Fever,2/7/20,,Visit the Mall,,"34, 37, 43, 53, 83, 89",43
+93,2/10/20,Tianjin,Tianjin,BaoDi,Tianjin,50,F,0,1,0,,,,2/3/20,Fever & Headache,2/9/20,,,,"96, 97, 107",0
+94,2/10/20,Tianjin,Tianjin,BaoDi,Tianjin,22,F,0,0,0,,,,2/6/20,"Fever, Weakness, Diarrhea",2/7/20,,,,"75, 87",75
+95,2/10/20,Tianjin,Tianjin,HeDong,Tianjin,49,M,0,0,0,,,,2/1/20,Fever,2/8/20,,,,"101, 104",0
+96,2/11/20,Tianjin,Tianjin,BaoDi,Tianjin,76,M,0,0,0,,,,2/7/20,Fever,2/9/20,,,,"93, 97, 107",93
+97,2/11/20,Tianjin,Tianjin,BaoDi,Tianjin,77,F,0,0,1,"Tianjin-93, Tianjin-96",,,2/9/20,Fever,2/9/20,,Realtive,,"93, 96, 107",93
+98,2/11/20,Tianjin,Tianjin,BaoDi,Tianjin,43,M,0,0,1,Tianjin-82,,,2/10/20,PCR positive,2/2/20,,Colleague,,"82, 91",82
+99,2/11/20,Tianjin,Tianjin,BaoDi,Tianjin,31,F,0,0,1,"Mall, Tianjin-64",,,2/10/20,PCR positive,2/3/20,,Visit the Mall,,"34, 37, 43, 51, 53, 64, 83, 89",51
+100,2/11/20,Tianjin,Tianjin,BeiChen,Tianjin,80,F,0,0,0,,,,1/31/20,Fever,2/7/20,,,,"103, 105, 108",0
+101,2/11/20,Tianjin,Tianjin,HeDong,Tianjin,50,F,0,0,1,Tianjin-95,,,2/10/20,Fever & Sore Throat,2/2/20,,Realtive,,"95, 104",95
+102,2/11/20,Tianjin,Tianjin,BeiChen,Tianjin,49,M,0,1,0,,,,1/30/20,Weakness,2/3/20,,,,109,0
+103,2/11/20,Tianjin,Tianjin,HeBei,Tianjin,56,M,0,0,1,"Tianjin-100, Tianjin-105",,,2/9/20,Fever,2/10/20,,Relative,,"100, 105, 108",100
+104,2/11/20,Tianjin,Tianjin,HeDong,Tianjin,19,M,0,0,1,"Tianjin-95, Tianjin-101",,,2/11/20,PCR positive,2/10/20,,Relative,,"95, 101",95
+105,2/11/20,Tianjin,Tianjin,BeiChen,Tianjin,53,M,0,0,1,"Tianjin-103, Tianjin-100",,,2/10/20,Fever & Headache,2/10/20,,Relative,,"100, 103, 108",100
+106,2/11/20,Tianjin,Tianjin,NanKai,Tianjin,27,F,0,1,1,Hebei-case,,,2/3/20,Cough,2/9/20,,Relative,,,0
+107,2/11/20,Tianjin,Tianjin,BaoDi,Tianjin,49,M,0,0,1,Tianjin-93,,,2/9/20,Headache,2/9/20,,Relative,,"93, 96, 97",93
+108,2/12/20,Tianjin,Tianjin,HeBei,Tianjin,55,F,0,0,1,"Tianjin-100, Tianjin-103",,,2/11/20,Weakness,2/11/20,,Relative,,"100, 103, 105",100
+109,2/12/20,Tianjin,Tianjin,BeiChen,Tianjin,40,F,0,0,1,Tianjin-102,,,2/10/20,Fever & Cough,2/11/20,,Relative,,102,102
+110,2/12/20,Tianjin,Tianjin,BaoDi,Tianjin,63,M,0,0,0,,,,2/2/20,Fever,2/6/20,,,,,0
+111,2/12/20,Tianjin,Tianjin,BaoDi,Tianjin,54,F,0,0,1,Mall,,,1/25/20,Cough,2/2/20,,Visit the Mall,,"34, 37, 43, 53, 83, 89",43
+112,2/12/20,Tianjin,Tianjin,BaoDi,Tianjin,42,F,0,0,1,Tianjin-51,,,2/6/20,Fever & Respiratory,2/6/20,,,,51,51
